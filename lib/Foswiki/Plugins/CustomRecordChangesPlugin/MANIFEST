@@ -1,0 +1,5 @@
+!noci
+data/System/CustomRecordChangesPlugin.txt 0644 Documentation page
+lib/Foswiki/Plugins/CustomRecordChangesPlugin.pm 0444 Perl module
+lib/Foswiki/Plugins/CustomRecordChangesPlugin/Config.spec 0444 Configuration
+tools/changescatchup 0655
